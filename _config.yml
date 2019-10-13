@@ -6,23 +6,23 @@ description: 欢迎来到我的个人站~
 avatarTitle: BerylJeff
 # 头像里面的描述
 avatarDesc:  Linux c++
-url: "http://BerylJeff.github.io"
+url: "https://BerylJeff.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: BerylJeff
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    wechat: wzf1314ai 
+    github: BerylJeff
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 339449143@qq.com
 
 
 # 百度统计 
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://BerylJeff.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
